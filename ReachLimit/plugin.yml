@@ -1,0 +1,8 @@
+name : ReachLimit
+version: 1.0
+author : Shakatar
+main : fr.shakatar.reachlimit.ReachLimit
+commands:
+  reachlimit:
+    description: Set reach limit 
+    permission: reachlimit.use
